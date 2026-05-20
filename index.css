@@ -1,0 +1,10 @@
+root{
+    --pry-bg-color:(aqua);
+    --bg-color:(black):
+    --color:(white)
+};
+background color:{   var(--bg-color)};
+.container h2{
+    color:{var(--color)};
+     background color:{var(--bg-color)}
+}
